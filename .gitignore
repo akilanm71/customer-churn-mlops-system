@@ -1,0 +1,18 @@
+# notebooks
+notebook/
+.ipynb_checkpoints/
+
+# environment
+.env
+venv/
+
+# data
+data/
+
+# models
+*.pkl
+*.joblib
+
+# python
+__pycache__/
+*.pyc
