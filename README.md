@@ -15,13 +15,21 @@ Customer churn prediction helps companies identify customers who are likely to l
 Customer-Churn-MLOps-System
 
 ├── notebook/           # ML experimentation and model development
+
 ├── src/                # Training and pipeline scripts
+
 ├── model/              # Saved trained model
+
 ├── app.py              # FastAPI application for model inference
+
 ├── Dockerfile          # Containerization configuration
+
 ├── requirements.txt    # Python dependencies
+
 ├── .github/workflows   # CI/CD pipeline using GitHub Actions
+
 ├── .gitignore
+
 └── README.md
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
