@@ -166,6 +166,27 @@ Version Control
 Git
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 Live Applications
+
+### 📊 Telecom Customer Churn Dashboard
+Interactive analytics dashboard built with Streamlit and Plotly to analyze telecom customer churn patterns.
+
+🔗 Live App  
+https://customerchurndashboard-82dgvxx9ezq6grv5kgkfbu.streamlit.app/
+
+🔗 Source Code  
+https://github.com/akilanm71/customer_churn_dashboard
+
+
+### 🤖 LLM Topic Modeling App
+A topic modeling application using BERTopic and LLM techniques deployed on Hugging Face Spaces.
+
+🔗 Live App  
+https://huggingface.co/spaces/akilanjai71/churn_prediction_labeling
+
+🔗 Source Code  
+https://github.com/akilanm71/Churn-Prediction-Hugging-Space-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📊 Business Value
 
