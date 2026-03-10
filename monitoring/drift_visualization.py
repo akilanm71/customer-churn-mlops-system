@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from scipy.stats import ks_2samp
 
 # Load datasets
-train = pd.DataFrame(joblib.load("x_train.pkl"))
-prod = pd.DataFrame(joblib.load("x_test.pkl"))
+train = pd.DataFrame(joblib.load("monitoring/x_train.pkl"))
+prod = pd.DataFrame(joblib.load("monitoring/x_test.pkl"))
 
 # Ensure columns match
 prod.columns = train.columns
