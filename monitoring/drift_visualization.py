@@ -27,4 +27,4 @@ plt.title("Feature Drift Detection (KS Test)")
 plt.ylabel("p-value")
 
 plt.tight_layout()
-plt.show()
+plt.savefig("monitoring/drift_plot.png")
